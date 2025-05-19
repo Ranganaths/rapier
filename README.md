@@ -117,10 +117,4 @@ From there, it's easy to implement popular design patterns like ([Multi-](https:
 
 </div>
 
-- Want to learn **Agentic Coding**?
-
-  - Check out [my YouTube](https://www.youtube.com/@ZacharyLLM?sub_confirmation=1) for video tutorial on how some apps above are made!
-
-  - Want to build your own LLM App? Read this [post](https://zacharyhuang.substack.com/p/agentic-coding-the-most-fun-way-to)! Start with [this template](https://github.com/ranganaths/rapier-Template-Python)!
-
 
