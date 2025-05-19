@@ -1,9 +1,4 @@
 
-<div align="center">
-  <img src="https://github.com/ranganaths/.github/raw/main/assets/title.png" alt="Rapier – minimalist LLM framework" width="600"/>
-</div>
-
-<!-- For translation, replace English with [English](https://github.com/ranganaths/Rapier/blob/main/README.md), and remove the link for the target language. -->
 
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
